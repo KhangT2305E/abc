@@ -1,4 +1,4 @@
-  /* Nguyễn Mạnh Khang - Tìm phần tử bậc 2 ver 2.0
+  /* Nguyễn Mạnh Khang - Tìm phần tử lớn thứ 2 ver 2.0
   Giải thuật:
   B1: Nhập mảng, tạo biến loop, maxvalue và secondvalue
   B2: Gán phần tử 0 và 1 trong mảng cho biến max và second, nếu 0 > 1 thì cho 0 vào max và 1, vào second, nếu 0 < 1 thì 1 vào max và 0 vào second
